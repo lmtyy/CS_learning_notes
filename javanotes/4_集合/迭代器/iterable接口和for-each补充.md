@@ -15,7 +15,7 @@ Java 的增强 for 循环（也称为 for-each 循环）**在语言层面**规�
 
 当编译器看到这样的代码时：
 ```java
-for(Product p : someObject) { ... }
+for (Product p : someObject) { ... }
 ```
 
 编译器会检查 `someObject` 的类型：

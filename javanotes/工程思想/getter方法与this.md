@@ -1,4 +1,4 @@
-- getter方法需要用this来访问private属性吗
+## getter方法需要用this来访问private属性吗
 
 在 Java 中，**是否使用 `this` 访问当前对象的属性（如 `this.origin`）取决于编码规范和具体场景**。以下是详细分析：
 
